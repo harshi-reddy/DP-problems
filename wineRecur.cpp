@@ -1,4 +1,4 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
 
 int maxProfit(int arr[], int be, int en, int yr) {
